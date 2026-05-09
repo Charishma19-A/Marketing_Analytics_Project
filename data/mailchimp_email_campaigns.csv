@@ -1,0 +1,6 @@
+email_id,user_id,campaign_id,sent_date,opened,clicked,converted,unsubscribed
+E001,U001,C001,2026-01-01,Yes,Yes,Yes,No
+E002,U002,C002,2026-01-02,Yes,No,No,No
+E003,U003,C003,2026-01-03,No,No,No,No
+E004,U004,C004,2026-01-04,Yes,Yes,No,No
+E005,U005,C005,2026-01-05,Yes,Yes,Yes,No

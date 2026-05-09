@@ -1,0 +1,6 @@
+lead_id,user_id,lead_source,lifecycle_stage,lead_status,created_date,converted_date,retention_flag
+L001,U001,Google Ads,New Lead,Open,2026-01-01,2026-01-05,Yes
+L002,U002,Email,MQL,Qualified,2026-01-02,2026-01-07,Yes
+L003,U003,Organic Search,SQL,Qualified,2026-01-03,,No
+L004,U004,Google Ads,Opportunity,Open,2026-01-04,2026-01-10,Yes
+L005,U005,Referral,Converted,Closed Won,2026-01-05,2026-01-12,Yes

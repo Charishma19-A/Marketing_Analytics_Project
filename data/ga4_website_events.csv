@@ -1,0 +1,11 @@
+user_id,session_id,event_date,traffic_source,device_type,landing_page,event_name,campaign_id
+U001,S001,2026-01-01,Google Ads,Mobile,Homepage,session_start,C001
+U001,S001,2026-01-01,Google Ads,Mobile,Homepage,page_view,C001
+U001,S001,2026-01-01,Google Ads,Mobile,Product Page,product_view,C001
+U001,S001,2026-01-01,Google Ads,Mobile,Checkout Page,form_start,C001
+U001,S001,2026-01-01,Google Ads,Mobile,Checkout Page,form_submit,C001
+U002,S002,2026-01-02,Email,Desktop,Homepage,session_start,C002
+U002,S002,2026-01-02,Email,Desktop,Homepage,page_view,C002
+U002,S002,2026-01-02,Email,Desktop,Product Page,product_view,C002
+U003,S003,2026-01-03,Organic Search,Mobile,Homepage,session_start,C003
+U003,S003,2026-01-03,Organic Search,Mobile,Homepage,page_view,C003

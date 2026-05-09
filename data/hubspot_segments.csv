@@ -1,0 +1,6 @@
+user_id,segment_name,engagement_score,lifecycle_group,campaign_response
+U001,High Intent,92,Returning Customer,Responded
+U002,Engaged Prospect,85,Lead,Nurtured
+U003,New Visitor,60,Awareness,No Response
+U004,Inactive Customer,40,Retention,Re-engagement Needed
+U005,Loyal Customer,95,Converted,Upsell Opportunity

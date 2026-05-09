@@ -1,0 +1,6 @@
+campaign_id,campaign_name,date,audience,impressions,clicks,spend,conversions,revenue
+C001,Summer Sale,2026-01-01,Homeowners,50000,2500,3200,180,12000
+C002,Kitchen Remodel,2026-01-02,DIY Customers,42000,1900,2800,140,9800
+C003,Garden Tools Promo,2026-01-03,Gardeners,38000,1700,2400,125,8600
+C004,Bathroom Upgrade,2026-01-04,Homeowners,46000,2100,3000,160,11000
+C005,Appliance Discounts,2026-01-05,New Customers,55000,3000,3600,220,15000

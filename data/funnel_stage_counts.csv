@@ -1,0 +1,6 @@
+event_name,count
+session_start,3
+page_view,3
+product_view,2
+form_start,1
+form_submit,1
